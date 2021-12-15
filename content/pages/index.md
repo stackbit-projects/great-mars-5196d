@@ -211,7 +211,7 @@ sections:
     type: ContactSection
   - colors: colors-f
     elementId: ''
-    title: Gallery
+    title: Gallery test
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
